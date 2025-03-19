@@ -20,8 +20,7 @@ This project is a **student management system** built using **Python and MongoDB
 ```
 📂 Student-Management-MongoDB  
 │-- 📜 student_mgmt.py        # Main Python script  
-│-- 📜 README.md              # Project documentation  
-│-- 📜 requirements.txt       # List of dependencies   
+│-- 📜 README.md              # Project documentation     
 ```
 
 ## 📥 How to Run the Project  
