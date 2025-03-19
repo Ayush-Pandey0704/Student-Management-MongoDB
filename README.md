@@ -43,5 +43,5 @@ python student_mgmt.py
 ## **🔗 Connect with Me**  
 👤 **Ayush Pandey**  
 📧 **work.ayushpandey@gmail.com**  
-🔗 **[LinkedIn Profile](https:linkedin.com/in/ayush-pandey-30462a331/)**  
+🔗 **[LinkedIn Profile](https://linkedin.com/in/ayush-pandey-30462a331/)**  
 
